@@ -34,7 +34,7 @@ The application adapts to bright environments with a high-contrast light theme.
 The following snippet demonstrates the logic behind the dynamic theme application and control iteration.
 
 ![Code Snippet](https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/code%20th.png?raw=true)
-(https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/code%20=.png?raw=true)
+https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/code%20=.png?raw=true
 
 ## Getting Started
 
