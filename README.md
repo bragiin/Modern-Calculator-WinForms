@@ -2,7 +2,7 @@
 
 A robust calculator application developed using C# and Windows Forms (WinForms). This project demonstrates a custom implementation of a graphical user interface (GUI) with a focus on user experience, featuring a flat design style, dynamic theme switching, and session history management.
 
-![Dark Mode View]((https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/darkmode.png?raw=true))
+![Dark Mode View](https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/darkmode.png?raw=true)
 
 ## Project Overview
 
@@ -33,7 +33,8 @@ The application adapts to bright environments with a high-contrast light theme.
 ### Implementation Details
 The following snippet demonstrates the logic behind the dynamic theme application and control iteration.
 
-![Code Snippet](https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/code%20th.png?raw=true)(https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/code%20=.png?raw=true).
+![Code Snippet](https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/code%20th.png?raw=true)
+(https://github.com/bragiin/Modern-Calculator-WinForms/blob/main/code%20=.png?raw=true)
 
 ## Getting Started
 
